@@ -1,7 +1,7 @@
 # eclipse_Duck
 学习策略模式
 ![Duck类]
-(eclipse_Duck/image/Duck.png)
+(http://github.com/cuirong1997/eclipse_Duck/image/Duck.png)
 ![Fly行为]
 (http://github.com/cuirong1997/eclipse_Duck/raw/master/image/Fly.png)
 ![Quack行为]
