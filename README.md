@@ -9,8 +9,8 @@
 ![整合](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/整合.png)
 #测试结果
 ##Mallard
-![Mallard](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/DuckTestMallard.jpg)
+![Mallard](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/DuckTestMallard.JPG)
 ##Rubber
-![Rubber](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/DuckTestRubber.jpg)
+![Rubber](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/DuckTestRubber.JPG)
 ##RedHead
-![RedHead](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/DuckTestRedHead.jpg)
+![RedHead](https://raw.githubusercontent.com/cuirong1997/eclipse_Duck/master/image/DuckTestRedHead.JPG)
